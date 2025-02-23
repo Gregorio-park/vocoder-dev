@@ -1,2 +1,1 @@
-# vocoder-dev
-패드에서 코딩하기
+print("hello world")
